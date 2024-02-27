@@ -36,8 +36,8 @@ stages:
         dockerfile: $(dockerfilePath)
         containerRegistry: $(dockerRegistryServiceConnection)
         tags: |
-<<<<<<< HEAD
-          $(tag)
-=======
-          $(tag)
->>>>>>> ee670d9051cb8f80fcabace5521f7652a36b92ff
+#<<<<<<< HEAD
+#          $(tag)
+#=======
+#          $(tag)
+#>>>>>>> ee670d9051cb8f80fcabace5521f7652a36b92ff
